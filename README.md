@@ -1,3 +1,5 @@
+The only change to original source is that it applies the highlight to nodes that are down. So clicking DepMap will show you whats down and how it depends on others
+
 Dependency Map
 ===========
 
